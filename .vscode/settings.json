@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveTimeout": 5000,
+    "ruby.rubocop.executePath": "path/where/rubocop/is/located",
+    "ruby.useLanguageServer": true,
+    "ruby.lint": "rubocop",
+    "ruby.format": "rubocop",
+}
